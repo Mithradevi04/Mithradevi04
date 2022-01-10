@@ -6,7 +6,7 @@
 src="https://komarev.com/ghpvc/?username=mithradevi04&label=Profile%20views&color=0e75b6&style=flat"
  alt="mithradevi04" /> </p>
 
-- 🔭 I’m currently working on **Weather Application**
+- 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **ReactJs & NodeJs**
 
